@@ -248,5 +248,9 @@ while True:
     pygame.display.flip()
     if backgroundBool: pygame.draw.rect(screen, (125, 123, 15), pygame.Rect(0, 0, 1000, 900))
     
-    
-    
+
+
+#      /\  ___\   /\  __ \   /\ "-./  \   
+#      \ \ \____  \ \ \/\ \  \ \ \-./\ \  
+# 	\ \_____\  \ \_____\  \ \_\ \ \_\ 
+# 	 \/_____/   \/_____/   \/_/  \/_/ 
